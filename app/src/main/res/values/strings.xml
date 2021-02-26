@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProductsMenu</string>
+    <string name="add_word">add_product</string>
+    <string name="add_product">add_product</string>
+    <string name="hint_product">hint_product</string>
+    <string name="button_edit">button_edit</string>
+    <string name="title_activity_recycle_view">title_activity_recycle_view</string>
+</resources>
